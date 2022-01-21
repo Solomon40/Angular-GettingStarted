@@ -1,0 +1,27 @@
+
+  [
+    {
+      "productId": 2,
+      "productName": "Garden Cart",
+      "productCode": "GDN-0023",
+      "releaseDate": "Dec 22, 2021",
+      "description": "15 gallon capacity garden rolling cart",
+      "price": 3200,
+      "starRating": 4.2,
+      "imageUrl": "assets/images/garden_cart.png"
+    },
+    {
+      "productId": 5,
+      "productName": "Hammer",
+      "productCode": "TBX-0048",
+      "releaseDate": "Nov 1, 2021",
+      "description": "Curved claw steel hammer",
+      "price": 800,
+      "starRating": 4.9,
+      "imageUrl": "assets/images/hammer.png"
+    }
+
+
+
+  ]
+
